@@ -4,7 +4,7 @@
   <h1>GT: Not Leisure</h1>
   <h2><em>Science Not Leisure</em></h2>
 
-  <p>
+  <p> 
     <strong>The Ultimate Magic-Tech Expansion for GregTech New Horizons</strong>
   </p>
 
